@@ -289,12 +289,15 @@
   .firstblock {
     position: relative;
     height: 100vw;
+    position: relative;
+    width: 100vw;
   }
 
   .union {
     position: absolute;
     margin-top: -10vw;
     height: 120vw;
+    width: 100vw;
     margin-left: 22vw;
     overflow: hidden;
   }

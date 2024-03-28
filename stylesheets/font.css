@@ -47,7 +47,7 @@ span {
   z-index: 2;
 }
 
-@media (max-width: 414px) {
+@media (max-width: 768px) {
   h1 {
     font-family: "PPMonumentExtended-Regular.otf";
     font-size: 6vw;
