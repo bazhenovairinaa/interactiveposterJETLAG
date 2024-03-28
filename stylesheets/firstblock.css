@@ -285,13 +285,12 @@
   transform: rotate(30deg);
 }
 
-@media (max-width: 414px) {
+@media (max-width: 768px) {
   .firstblock {
     position: relative;
     height: 100vw;
   }
 
-  
   .union {
     position: absolute;
     margin-top: -10vw;
