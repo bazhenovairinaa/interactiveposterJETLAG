@@ -15,16 +15,16 @@
 
 .planet1 {
   position: absolute;
-  margin-left: 33vw;
-  margin-top: 10vw;
-  width: 4.5vw;
+  margin-left: 36vw;
+  margin-top: 68px;
+  width: 5vw;
 }
 
 .sun {
   position: absolute;
-  margin-left: 37vw;
-  margin-top: 45vw;
-  width: 8.5vw;
+  margin-left: 38vw;
+  margin-top: 46vw;
+  width: 8vw;
 }
 
 .planet2 {
@@ -104,8 +104,8 @@
 .circles {
   position: absolute;
   border-radius: 50%;
-  width: 0.3vw;
-  height: 0.3vw;
+  width: 0.2vw;
+  height: 0.2vw;
   animation: circles 5.5s ease-in-out infinite;
 }
 
@@ -267,6 +267,21 @@
   margin-top: 20svw;
 }
 
+.span1 {
+  margin-top: 35vw;
+  margin-left: 65vw;
+}
+
+.span2 {
+  margin-top: 16vw;
+  margin-left: 66vw;
+}
+
+.span3 {
+  margin-top: 8vw;
+  margin-left: 55vw;
+}
+
 .span17 {
   margin-left: 54vw;
   margin-top: 16svw;
@@ -284,4 +299,3 @@
   margin-top: 3svw;
   transform: rotate(30deg);
 }
-

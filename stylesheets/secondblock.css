@@ -1,7 +1,7 @@
 .secondblock {
   position: relative;
   width: 100vw;
-  height: 60vw;
+  height: 70vw;
 }
 
 .gradient1 {
@@ -115,21 +115,6 @@
   width: 15vw;
   transform: rotate(120deg);
   z-index: 2;
-}
-
-.span1 {
-  margin-top: 36vw;
-  margin-left: 64vw;
-}
-
-.span2 {
-  margin-top: 16vw;
-  margin-left: 66vw;
-}
-
-.span3 {
-  margin-top: 8vw;
-  margin-left: 55vw;
 }
 
 .span4 {

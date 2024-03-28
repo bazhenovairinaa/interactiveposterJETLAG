@@ -1,3 +1,4 @@
+@import "reset.css";
 @import "main.css";
 @import "firstblock.css";
 @import "secondblock.css";
@@ -5,3 +6,4 @@
 @import "fourthblock.css";
 @import "font.css";
 @import "responsive.css";
+/* @import "reset.css"; */
