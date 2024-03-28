@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "PPMonumentExtended-Regular.otf";
+  src: url("../font/PPMonumentExtended-Regular.otf") format("opentype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+h1 {
+  font-family: "PPMonumentExtended-Regular.otf";
+  font-size: 6vw;
+  position: absolute;
+  color: aliceblue;
+  line-height: 90%;
+  z-index: 2;
+  margin-top: 21vw;
+  margin-left: 3vw;
+  font-style: normal;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: "PPMonumentExtended-Regular.otf";
+  font-size: 4vw;
+  position: absolute;
+  color: aliceblue;
+  line-height: 90%;
+  z-index: 2;
+  text-align: center;
+  font-style: normal;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "PPMonumentExtended-Regular.otf";
+  font-size: 1vw;
+  position: absolute;
+  color: aliceblue;
+  font-style: normal;
+  font-weight: normal;
+}
+
+span {
+  font-family: "PPMonumentExtended-Regular.otf";
+  font-size: 1vw;
+  position: absolute;
+  color: aliceblue;
+  z-index: 2;
+}

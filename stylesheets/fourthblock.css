@@ -1,0 +1,157 @@
+.fourthblock {
+  position: relative;
+  width: 100vw;
+  height: 60vw;
+}
+
+.bigplanet3 {
+  position: absolute;
+  margin-top: 10vw;
+  width: 50vw;
+  margin-left: 25vw;
+}
+
+.gradient2 {
+  position: absolute;
+  margin-top: 15vw;
+  width: 100vw;
+  height: 100vw;
+  z-index: -1;
+}
+
+.fallingstar1 {
+  position: absolute;
+  margin-top: 10vw;
+  margin-left: 65vw;
+  height: 30vw;
+  animation: fallingstar1 12s infinite ease-in;
+}
+
+@keyframes fallingstar1 {
+  0% {
+    translate: 0vw 0vw;
+  }
+  100% {
+    translate: -80vw 50vw;
+  }
+}
+
+@keyframes fallingstar2 {
+  0% {
+    translate: 0vw 0vw;
+  }
+  100% {
+    translate: 80vw 50vw;
+  }
+}
+
+.fallingstar2 {
+  position: absolute;
+  margin-top: 35vw;
+  margin-left: 14vw;
+  height: 25vw;
+  animation: fallingstar2 5s infinite ease-in;
+}
+
+.fallingstar11 {
+  position: absolute;
+  margin-top: 50vw;
+  margin-left: 20vw;
+  height: 10vw;
+  animation: fallingstar2 6s infinite ease-in;
+}
+
+.fallingstar12 {
+  position: absolute;
+  margin-top: 56vw;
+  margin-left: 19vw;
+  height: 5vw;
+  animation: fallingstar2 12s infinite ease-in;
+}
+
+.fallingstar13 {
+  position: absolute;
+  margin-top: 15vw;
+  margin-left: 12vw;
+  height: 5vw;
+  animation: fallingstar2 5s infinite ease-in;
+}
+
+.fallingstar14 {
+  position: absolute;
+  margin-top: 30vw;
+  margin-left: 4vw;
+  height: 5vw;
+  animation: fallingstar2 12s infinite ease-in;
+}
+
+.fallingstar15 {
+  position: absolute;
+  margin-top: 40vw;
+  margin-left: 70vw;
+  height: 10vw;
+  animation: fallingstar1 6s infinite ease-in;
+}
+
+.h34 {
+  margin-top: 7vw;
+  z-index: 2;
+}
+
+.span13 {
+  margin-top: 23vw;
+  margin-left: 18vw;
+  z-index: 1;
+}
+
+.span14 {
+  margin-top: 30vw;
+  margin-left: 80vw;
+  z-index: 1;
+}
+
+.span15 {
+  margin-top: 55vw;
+  margin-left: 70vw;
+}
+
+.span16 {
+  margin-top: 65vw;
+  margin-left: 20vw;
+}
+
+.logo {
+  margin-top: 100vw;
+  margin-left: 75vw;
+  width: 15vw;
+}
+
+.circle21 {
+  background-color: #ffffff;
+  margin-top: 90vw;
+  margin-left: 20vw;
+}
+
+.circle22 {
+  background-color: #ffffff;
+  margin-top: 87vw;
+  margin-left: 40vw;
+}
+
+.circle23 {
+  background-color: #e85b11;
+  margin-top: 78vw;
+  margin-left: 34vw;
+}
+
+.circle24 {
+  background-color: #ffffff;
+  margin-top: 100vw;
+  margin-left: 32vw;
+}
+
+.circle25 {
+  background-color: #e85b11;
+  margin-top: 85vw;
+  margin-left: 60vw;
+}
